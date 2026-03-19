@@ -20,7 +20,7 @@
 
 > Scroll to the bottom, you will find 3 options, press "Force Stop"
 
-![Step 4, Force Stop Jamf(/images/step4.png)
+![Step 4, Force Stop Jamf](/images/step4.png)
 
 ## Step 5
 
