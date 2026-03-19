@@ -1,5 +1,3 @@
 theme: minima
 title: Fix no Data, No Internet issue (Jamf)
 description: Website for force stopping Jamf
-url: "https://woodcock-cal.github.io/jamf-fix/"
-baseurl: ""
