@@ -1,3 +1,7 @@
+---
+layout: home
+title: Fix no Data, No Internet issue (Jamf)
+---
 ## Step 1
 
 > Find the settings app and open it
